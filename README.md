@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuzmaFR
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, R, SQL, and
+- 🌱 I’m currently learning Python, R, SQL, Tableau, and IBM SPSS
 - 💞️ I’m looking to collaborate on any projects about data analytics and data sciences
 - 📫 How to reach me: instagram -> @juzmafawwaza, email -> juzmafawwazar@gmail.com
 
